@@ -6,7 +6,7 @@ body {
     color: [darkorchid];
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: medium;
+    font-size: larger;
     }
     h2{
         color:[purple];
@@ -19,6 +19,11 @@ body {
         font-size: medium;
     }
     h4{
+        color:[purple];
+        text-align:left;
+        font-size: medium;
+    }
+    h5{
         color:[purple];
         text-align:left;
         font-size: medium;
