@@ -1,0 +1,23 @@
+body {
+    background: [lavender];
+    font-family: Helvetica,;
+    }
+    h1 {
+    color: [darkorchid];
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    h2{
+        color:[purple];
+        text-align: left;
+    }
+    h3{
+        color:[purple];
+        text-align:left;
+    }
+    h4{
+        color:[purple];
+        text-align:left;
+    }
+    
+
