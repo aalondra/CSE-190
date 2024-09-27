@@ -1,17 +1,24 @@
 body {
-    background-color: [lavender];
+    background-color: lavender;
     font-family:Arial, Helvetica, sans-serif;
 }
 
     h1 {
         text-align: center;
-        color: [darkorchid];
+        color: darkorchid;
         font-family:Georgia;
         font-size: x-large;
     }
     h2{
         text-align: left;
-        color:[purple];
+        color:purple;
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         font-size: larger;
+    }
+    h3{
+        text-align:left;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: small;
+        color:purple;
+
     }
