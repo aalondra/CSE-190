@@ -1,26 +1,25 @@
 body {
-    background-color: lavender;
+    background-color: rgb(196, 159, 238);
     font-family:Arial, Helvetica, sans-serif;
-    color:blueviolet;
+    color:rgb(156, 16, 128);
     font-size:smaller;
 }
 
     h1 {
         text-align: center;
-        color:rgb(52, 7, 52) ;
+        color:rgb(72, 10, 72) ;
         font-family:Georgia;
         font-size: x-large;
     }
     h2{
         text-align: left;
-        color:rgb(49, 9, 90);
+        color:rgb(107, 17, 152);
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        font-size: larger;
+        font-size: x-large;
     }
     h3{
         text-align:left;
         font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        font-size: small;
-        color:rgb(92, 27, 125);
-
+        font-size: medium;
+        color:rgb(103, 1, 154);
     }
