@@ -1,7 +1,6 @@
 body {
-    background-color: rgb(217, 190, 248);
+    background-color: lavenderblush);
     font-family:Arial, Helvetica, sans-serif;
-    color:rgb(168, 93, 206);
     font-size:smaller;
 }
 
@@ -13,13 +12,13 @@ body {
     }
     h2{
         text-align: left;
-        color:rgb(107, 17, 152);
-        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        font-size: x-large;
+        color:rgb(70, 7, 83);
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: medium;
     }
     h3{
         text-align:left;
         font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        font-size: medium;
+        font-size: small;
         color:rgb(103, 1, 154);
     }
