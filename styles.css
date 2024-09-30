@@ -1,18 +1,18 @@
 body {
-    background-color: lavenderblush);
+    background-color: lavender;
     font-family:Arial, Helvetica, sans-serif;
     font-size:smaller;
 }
 
     h1 {
         text-align: center;
-        color:rgb(72, 10, 72) ;
+        color:rgb(81, 9, 81) ;
         font-family:Georgia;
         font-size: x-large;
     }
     h2{
         text-align: left;
-        color:rgb(70, 7, 83);
+        color:rgb(82, 7, 97);
         font-family:Georgia, 'Times New Roman', Times, serif;
         font-size: medium;
     }
@@ -20,5 +20,5 @@ body {
         text-align:left;
         font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         font-size: small;
-        color:rgb(103, 1, 154);
+        color:rgb(88, 3, 130);
     }
