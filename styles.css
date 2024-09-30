@@ -6,7 +6,7 @@ body {
 
     h1 {
         text-align: center;
-        color:rgb(86, 8, 112) ;st
+        color:rgb(86, 8, 112) ;
         font-family:Georgia;
         font-size: x-large;
     }
@@ -21,4 +21,21 @@ body {
         font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         font-size: small;
         color:rgb(88, 3, 130);
+    }
+    .project{
+        width:30%;
+        margin: 10px;
+        padding:20px 10px;
+        border-radius: 25%;
+    }
+    .project img{
+        width: 250 px;
+        height:275 px;
+        margin: 10px;
+        border: 2px solid pink;
+        display: block;
+        margin:auto;
+    }
+    .project img:hover{
+        border: 2px solid white;
     }
