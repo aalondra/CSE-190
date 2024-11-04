@@ -1,6 +1,7 @@
 body {
     background-color: lavender;
     font-family:Arial, Helvetica, sans-serif;
+    margin:40px;
     font-size:smaller;
 }
 
@@ -23,6 +24,7 @@ body {
     }
     h3{
         text-align:left;
+        font-style: italic;
         font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         font-size: small;
         color:rgb(88, 3, 130);
@@ -46,8 +48,7 @@ body {
         display: block;
         margin:auto;
     }
-    .project img:hover
-    {
+    .project img:hover{
         border: 2px solid white;                
     }
 
@@ -55,11 +56,9 @@ body {
         text-decoration: none;
         color: purple;
         }
-        .project a: hover
-        {
-            color:gray;
-        }
-        .project p { /* change the appearance of paragraph tags inside .project divs */
+
+    .project p { /* change the appearance of paragraph tags inside .project divs */
         text-align: center;
         margin: 15px;
      }
+     
