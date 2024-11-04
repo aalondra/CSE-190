@@ -43,6 +43,10 @@ body {
         line-height: 100%;
     }
     
+    .skills p{
+        color: cornflowerblue;
+        text-align:center;
+    }
     .projects{
       display:flex;
       flex-wrap:wrap;  
