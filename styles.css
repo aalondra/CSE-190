@@ -29,6 +29,27 @@ body {
         font-size: small;
         color:rgb(88, 3, 130);
     }
+    .about{
+        display:flex;
+        flex-wrap:wrap;
+        margin-right: 100px;
+        margin-left: 100px;
+    }
+    
+    .about img {
+        width: 150px;
+        height: 200px;
+        border-radius: 25%;
+        border: 2px rgb(82, 7, 97);
+    }
+    
+    .about p {
+        width:40%;
+        text-align: center;
+        margin: auto;
+        line-height: 100%;
+    }
+    
     .projects{
       display:flex;
       flex-wrap:wrap;  
