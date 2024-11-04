@@ -41,8 +41,8 @@ body {
         border-radius: 25%;
     }
     .project img{
-        width: 250 px;
-        height:250 px;
+        width: 250px;
+        height:250px;
         margin: 10px;
         border: 2px solid pink;
         display: block;
