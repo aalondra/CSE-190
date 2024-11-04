@@ -36,13 +36,6 @@ body {
         margin-left: 100px;
     }
     
-    .about img {
-        width: 150px;
-        height: 200px;
-        border-radius: 25%;
-        border: 2px rgb(82, 7, 97);
-    }
-    
     .about p {
         width:40%;
         text-align: center;
@@ -62,8 +55,8 @@ body {
         border-radius: 25%;
     }
     .project img{
-        width: 150px;
-        height:150px;
+        width: 250px;
+        height:250px;
         margin: 10px;
         border: 2px solid pink;
         display: block;
