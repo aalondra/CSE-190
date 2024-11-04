@@ -33,14 +33,14 @@ body {
       display:flex;
       flex-wrap:wrap;  
     }
-    .project{
+    .projects{
         width:30%;
         margin: 10px;
         padding:20px 10px;
         background:pink;
         border-radius: 25%;
     }
-    .project img{
+    .projects img{
         width: 250 px;
         height:250 px;
         margin: 10px;
@@ -48,7 +48,7 @@ body {
         display: block;
         margin:auto;
     }
-    .project img:hover{
+    .projects img:hover{
         border: 2px solid white;                
     }
 
