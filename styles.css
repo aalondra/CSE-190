@@ -54,6 +54,7 @@ body {
     
     .skills p{
 
+        light height: 125
         color: rgb(17, 62, 146);
         text-align:center;
 
@@ -66,28 +67,28 @@ body {
         width:30%;
         margin: 10px;
         padding:20px 10px;
-        background:rgb(239, 175, 209);
+        background:rgb(244, 195, 221);
         border-radius: 25%;
     }
     .project img{
         width: 300px;
         height:300px;
         margin: 10px;
-        border: 2px solid rgb(157, 30, 98) ;
+        border: 1px solid rgba(240, 99, 174, 0.801) ;
         display: block;
         margin:auto;
     }
     .project img:hover{
-        border: 2px solid rgb(110, 11, 90);                
+        border: 2px solid rgba(240, 99, 174, 0.801);                
     }
 
     a { /* change the appearance of ALL links */
         text-decoration: none;
-        color: purple;
+        color: rgba(142, 22, 166, 0.838);
         }
 
     .project p { /* change the appearance of paragraph tags inside .project divs */
         text-align: center;
-        color:rgb(147, 8, 82);
+        color:rgb(114, 20, 70);
         margin: 15px;
      }
