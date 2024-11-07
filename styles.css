@@ -34,6 +34,7 @@ body {
         flex-wrap:wrap;
         margin-right: 100px;
         margin-left: 100px;
+        justify-content: center;
     }
     .about img {
         width: 150px;
@@ -43,15 +44,19 @@ body {
         }
 
     .about p {
+        color: rgb(17, 62, 146);
         width:40%;
         text-align: center;
         margin: auto;
         line-height: 100%;
+
     }
     
     .skills p{
-        color: cornflowerblue;
+
+        color: rgb(17, 62, 146);
         text-align:center;
+
     }
     .projects{
       display:flex;
