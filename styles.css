@@ -54,7 +54,7 @@ body {
     
     .skills p{
 
-        light height: 125
+        line-height:125px;
         color: rgb(17, 62, 146);
         text-align:center;
 
@@ -74,7 +74,7 @@ body {
         width: 300px;
         height:300px;
         margin: 10px;
-        border: 1px solid rgba(240, 99, 174, 0.801) ;
+        border: 1.75px solid rgba(240, 99, 174, 0.801) ;
         display: block;
         margin:auto;
     }
