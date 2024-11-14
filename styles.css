@@ -53,11 +53,9 @@ body {
     }
     
     .skills p{
-
-        line-height:125px;
         color: rgb(17, 62, 146);
         text-align:center;
-
+        margin: 40px;
     }
     .projects{
       display:flex;
