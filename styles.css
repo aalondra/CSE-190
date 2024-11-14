@@ -9,7 +9,7 @@ body {
         text-align: center;
         color:rgb(86, 8, 112) ;
         font-family:Georgia;
-        font-size: x-large;
+        font-size:xx-large ;
     }
     h1:hover{
         color:rgb(86, 8, 112);
@@ -20,7 +20,7 @@ body {
         text-align: left;
         color:rgb(82, 7, 97);
         font-family:Georgia, 'Times New Roman', Times, serif;
-        font-size: medium;
+        font-size: large;
     }
     h3{
         text-align:center;
@@ -61,14 +61,16 @@ body {
     }
     .projects{
       display:flex;
-      flex-wrap:wrap;  
+      flex-wrap:wrap; 
     }
     .project{
         width:30%;
         margin: 10px;
         padding:20px 10px;
-        background:rgb(244, 195, 221);
+        background:rgb(237, 137, 191);
+        border: 1.75px solid rgba(240, 99, 174, 0.616) ;
         border-radius: 25%;
+
     }
     .project img{
         width: 300px;
