@@ -68,7 +68,7 @@ body {
         margin: 10px;
         padding:20px 10px;
         background:rgb(237, 137, 191);
-        border: 1.75px solid rgba(240, 99, 174, 0.616) ;
+        border: 1.75px solid rgb(232, 143, 190) ;
         border-radius: 25%;
 
     }
@@ -81,7 +81,7 @@ body {
         margin:auto;
     }
     .project img:hover{
-        border: 2px solid rgba(240, 99, 174, 0.801);                
+        border: 2px solid rgb(255, 188, 224);                
     }
 
     a { /* change the appearance of ALL links */
