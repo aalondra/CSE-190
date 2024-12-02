@@ -48,12 +48,13 @@ body {
         width:40%;
         text-align: center;
         margin: auto;
-        line-height: 125%;
+        line-height: 135%;
 
     }
     
     .skills p{
         color: rgb(17, 62, 146);
+        text-align: center;
         margin: 30px;
     }
     .projects{
@@ -61,7 +62,7 @@ body {
       flex-wrap:wrap; 
     }
     .project{
-        width:30%;
+        width:25%;
         margin: 10px;
         padding:20px 10px;
         background:rgb(244, 195, 221);
