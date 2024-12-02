@@ -55,7 +55,7 @@ body {
     .skills p{
         color: rgb(17, 62, 146);
         text-align:center;
-        margin: 40px;
+        margin: 30px;
     }
     .projects{
       display:flex;
