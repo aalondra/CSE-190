@@ -105,5 +105,6 @@ body {
 }
 
 .contact a:hover {
+    text-decoration-color: purple;
     text-decoration: underline;
 }
